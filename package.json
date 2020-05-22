@@ -1,0 +1,28 @@
+{
+  "name": "eslint-rules",
+  "version": "1.0.0",
+  "description": "Standard eslint rules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "6.8.0",
+    "esprima": "4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimjetushar/eslint-rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-rules",
+    "eslint-config",
+    "javascript"
+  ],
+  "author": "Tushar Nimje",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimjetushar/eslint-rules/issues"
+  },
+  "homepage": "https://github.com/nimjetushar/eslint-rules#readme"
+}
