@@ -1,5 +1,5 @@
 {
-  "name": "eslint-rules",
+  "name": "@fourjs/eslint-rules",
   "version": "1.0.0",
   "description": "Standard eslint rules",
   "scripts": {
