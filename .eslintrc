@@ -1,0 +1,7 @@
+{
+    "extends": [
+      "./"
+    ],
+    "parser": "babel-eslint",
+    "rules": {}
+  }
