@@ -4,7 +4,7 @@
   "description": "Standard eslint rules",
   "scripts": {
     "test": "npm run lint",
-    "lint": "eslint rules/* index.js"
+    "lint": "eslint **/*.js"
   },
   "main": "index.js",
   "files": [

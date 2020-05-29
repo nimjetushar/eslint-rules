@@ -2,8 +2,6 @@ module.exports = {
     env: {
         browser: true,
         es6: true,
-        jest: true,
-        'jest/globals': true, // https://www.npmjs.com/package/eslint-plugin-jest#usage
         node: true,
         'shared-node-browser': true
     },
@@ -30,6 +28,6 @@ module.exports = {
         ecmaVersion: 6,
         sourceType: 'module'
     },
-    plugins: ['jest', 'babel', 'import'],
+    plugins: ['babel', 'import'],
     rules: {}
 };
