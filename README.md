@@ -5,7 +5,7 @@
 <br>
 [![GitHub license](https://img.shields.io/github/license/nimjetushar/eslint-rules)](https://github.com/nimjetushar/eslint-rules/blob/master/LICENSE)
 
-Standard eslint rules[![Build Status](https://semaphoreci.com/api/v1/nimjetushar/eslint-rules/branches/dependabot-npm_and_yarn-babel-eslint-10-1-0/shields_badge.svg)](https://semaphoreci.com/nimjetushar/eslint-rules)
+Standard eslint rules
 
 ## Installation
 
