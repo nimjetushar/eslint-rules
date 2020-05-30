@@ -13,7 +13,7 @@ module.exports = {
         ecmaVersion: 6,
         sourceType: 'module'
     },
-    plugin: ['jest'],
+    plugins: ['jest'],
     rules: {
         // rules for https://www.npmjs.com/package/eslint-plugin-jest
         'jest/consistent-test-it': [

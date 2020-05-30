@@ -7,7 +7,9 @@ module.exports = {
     },
     extends: [
         './node_modules/eslint/conf/eslint-recommended.js',
-        './rules/core.js'
+        './rules/core.js',
+        './rules/babel.js',
+        './rules/import.js'
     ].map(require.resolve),
     overrides: [
         {
