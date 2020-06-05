@@ -11,9 +11,6 @@ Standard eslint rules
 
 ``` npm i @fourjs/eslint-config-tn -D ```
 
-Install peer denpendencies as required
-``` npm install eslint-plugin-import eslint-plugin-jest eslint-plugin-react -D ```
-
 ## Setup
 
 Extend @fourjs/eslint-config-tn to apply rules.
