@@ -6,7 +6,7 @@ module.exports = {
         'shared-node-browser': true
     },
     extends: [
-        './node_modules/eslint/conf/eslint-recommended.js',
+        'eslint/conf/eslint-recommended.js',
         './rules/core.js',
         './rules/babel.js',
         './rules/import.js'
