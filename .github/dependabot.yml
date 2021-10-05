@@ -1,0 +1,16 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: monthly
+    time: "23:30"
+  open-pull-requests-limit: 40
+  ignore:
+  - dependency-name: eslint-plugin-jest
+    versions:
+    - 24.1.3
+    - 24.1.5
+  - dependency-name: eslint-plugin-react
+    versions:
+    - 7.22.0
